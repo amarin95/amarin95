@@ -8,6 +8,8 @@ I started my professional carrier as dev in 2018 after finishing my studies in T
 
 Since I discovered Flutter I fell in love with it and I'm always trying to make new apps and improving myself while I work in other projects mostly using Spring and Angular.
 
+Right now I'm working tech-leading Flutter apps projects and several Angular projects. 
+
 Please feel free to contact me or give me any feedback!
 
 ## Skills:
